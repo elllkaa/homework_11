@@ -5,21 +5,18 @@ public class Main {
         task3();
     }
 
-
     public static void task1() {
         System.out.println("Задача 1");
         int year = 2022;
         checkYear(year);
 
     }
-
     public static void task2() {
         System.out.println("Задача 2");
         int clientOS = 0;
         int currentYear = 2017;
         clientDevice(clientOS, currentYear);
     }
-
     public static void task3() {
         System.out.println("Задача 3");
         int deliveryDistance = 95;
